@@ -1,0 +1,16 @@
+{
+  "name": "kazento-aff-lb",
+  "version": "1.0.0",
+  "description": "Kazento Affiliate & Leaderboard Bot",
+  "main": "kazento-aff-lb.js",
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "scripts": {
+    "start": "node kazento-aff-lb.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "@supabase/supabase-js": "^2.45.4"
+  }
+}
